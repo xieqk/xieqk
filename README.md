@@ -16,6 +16,7 @@
   <a href="https://github.com/xieqk/wider_person_search">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xieqk&repo=wider_person_search" />
   </a>
+  <a href="https://github.com/xieqk/Bilibili_Spider_by_UserID">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xieqk&repo=Bilibili_Spider_by_UserID" />
+  </a>
 </div>
-
-[![Bilibili_Spider_by_UserID](https://github-readme-stats.vercel.app/api/pin/?username=xieqk&repo=Bilibili_Spider_by_UserID)](https://github.com/xieqk/Bilibili_Spider_by_UserID)
