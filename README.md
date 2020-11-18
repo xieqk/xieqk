@@ -13,18 +13,12 @@
   <a href="https://github.com/xieqk/TASTR">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xieqk&repo=TASTR" />
   </a>
-  <br>
   <a href="https://github.com/xieqk/wider_person_search">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xieqk&repo=wider_person_search" />
   </a>
+  <br>
   <a href="https://github.com/xieqk/Bilibili_Spider_by_UserID">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xieqk&repo=Bilibili_Spider_by_UserID" />
   </a>
   <br>
 </div>
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=xieqk&repo=TASTR)](https://github.com/xieqk/TASTR)
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=xieqk&repo=wider_person_search)](https://github.com/xieqk/wider_person_search)
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=xieqk&repo=Bilibili_Spider_by_UserID)](https://github.com/xieqk/Bilibili_Spider_by_UserID)
