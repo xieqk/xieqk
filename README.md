@@ -4,7 +4,8 @@
   </a>
   <br>
 
-  <p>Hi, I'm xieqk. <a href="https://xieqiaokang.com/">Homepage</a> | <a href="https://blog.xieqiaokang.com/">Blog</a> | <a href="https://gallery.xieqiaokang.com/">Gallery</a></p>
+  <p>Hi, I'm xieqk</p>
+  <p><a href="https://xieqiaokang.com/">Homepage</a> | <a href="https://blog.xieqiaokang.com/">Blog</a> | <a href="https://gallery.xieqiaokang.com/">Gallery</a></p>
   <p>
     <a href="https://xieqiaokang.com/">
       <img src="https://github-readme-stats.vercel.app/api?username=xieqk&show_icons=true&icon_color=73C9E5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
